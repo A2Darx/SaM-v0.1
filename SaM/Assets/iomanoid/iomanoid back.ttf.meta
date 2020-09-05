@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 87783360729a34b4b9b1e191ca5258f6
+timeCreated: 1597846349
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Iomanoid
+  fontNames:
+  - Iomanoid
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6c321cc32b584064eacd426e53c11c64, type: 3}
+  - {fileID: 12800000, guid: 18bf7466818377d4db3f4e6f56e88354, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
